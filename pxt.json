@@ -11,7 +11,7 @@
         "main.ts",
         "README.md",
         "_locales/zh-TW/README.md",
-        "_locales/zh-TW/BitMouse-string.json"
+        "_locales/zh-TW/BitMouse-strings.json"
     ],
     "testFiles": [
         "test.ts"
