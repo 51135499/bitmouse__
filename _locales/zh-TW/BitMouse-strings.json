@@ -1,4 +1,0 @@
-{
-    "BitMouse.motorRun|block": "馬達 ID|%index|速度|%PWM",
-    "BitMouse.irRead|block": "讀取 IR|%address 感測器"
-}
